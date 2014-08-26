@@ -2,9 +2,14 @@
   "name": "gmarkdox",
   "version": "0.0.0",
   "description": "Markdox theme",
+  "bin": {
+    "markdox": "./bin/markdox"
+  },
   "main": "index.js",
   "scripts": {
-    "test": "grunt test"
+    "documentation": "bin/gdoc -o doc/api.md lib/gdoc.js",
+    "test": "./node_modules/mocha/bin/mocha test/*-test.js",
+    "examples": "node examples/example.js"
   },
   "repository": {
     "type": "git",
@@ -13,6 +18,7 @@
   "keywords": [
     "markdown",
     "documentation",
+    "markdown",
     "grunt"
   ],
   "author": "goliatone <hello@goliatone.com> (http://goliatone.com/)",
