@@ -49,3 +49,6 @@ Icon
 
 ## Node
 node_modules
+
+## Cruft
+.tmp
