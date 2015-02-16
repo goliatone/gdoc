@@ -1,9 +1,9 @@
 {
-  "name": "gmarkdox",
+  "name": "gdoc",
   "version": "0.0.1",
   "description": "Markdox theme",
   "bin": {
-    "markdox": "./bin/markdox"
+    "gdoc": "./bin/gdoc"
   },
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/goliatone/gmarkdox"
+    "url": "https://github.com/goliatone/gdoc"
   },
   "keywords": [
     "markdown",
@@ -24,9 +24,9 @@
   "author": "goliatone <hello@goliatone.com> (http://goliatone.com/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/goliatone/gmarkdox/issues"
+    "url": "https://github.com/goliatone/gdoc/issues"
   },
-  "homepage": "https://github.com/goliatone/gmarkdox",
+  "homepage": "https://github.com/goliatone/gdoc",
   "dependencies": {
     "commander": "^2.3.0",
     "js-beautify": "^1.5.1",
