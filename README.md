@@ -109,6 +109,13 @@ Documentation is [here](https://github.com/goliatone/gdoc/blob/master/doc/api.md
 
     $ npm run-script documentation
 
+Todo
+---
+- Document banner
+- Integration with flatdoc
+- API versioning
+
+
 License
 --------
 
