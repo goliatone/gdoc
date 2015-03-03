@@ -111,6 +111,8 @@ Documentation is [here](https://github.com/goliatone/gdoc/blob/master/doc/api.md
 
 Todo
 ---
+- Update tag docs
+- Create grunt plugin
 - Document banner
 - Integration with flatdoc
 - API versioning
